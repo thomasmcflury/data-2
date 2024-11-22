@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jdih.pa-tanggamus.go.id/vendor/joker123/sitemap.xml
